@@ -44,8 +44,8 @@ ${renderLicenseSection(data.license)}
 - [INSTALLATION](#installation)
 - [USAGE](#usage)
 - [CONTRIBUTING](#contributing)
-- [TEST](#tests)
-- [QUESTIONS](#contactinfo)
+- [TEST](#test)
+- [QUESTIONS](#questions)
 
 ## Description 
 - ${data.description}
@@ -59,7 +59,7 @@ ${renderLicenseBadge(data.license)}
 - ${data.usage}
 ## Contributing
 - ${data.contributing}
-## Tests
+## Test
 - ${data.test}
 ## Questions
 For additonal information contact:
