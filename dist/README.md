@@ -11,20 +11,20 @@
 - [QUESTIONS](#questions)
 
 ## Description 
-- description
+- description info
 ## License
 [![Apache 2.0](https://img.shields.io/badge/license-Apache-blue)](https://opensource.org/licenses/Apache-2.0)
 - [Apache 2.0](https://opensource.org/licenses/Apache-2.0)
 
 ## Installation 
-- install
+- install info
 ## Usage 
-- usage
+- usage info
 ## Contribution 
-- contribution
+- contribution info
 ## Testing 
-- test
+- test info
 ## Questions
 For additonal information contact:
 - github: [shelbybridwell](https://github.com/shelbybridwell)
-- email: bridwellshelby@protonmail.com
+- email: bridwelshelby@protonmail.com
