@@ -21,19 +21,19 @@ const questions = [
     },{
         type: "input", 
         name: "installation",
-        message: "please enter installation information"
+        message: "please enter important installation information"
     },{
         type: "input", 
         name: "usage",
-        message: "please enter usage information"
+        message: "please enter important usage information"
     },{
         type: "input", 
         name: "contributing",
-        message: "please enter contributing information"
+        message: "please enter any contribution guidelines"
     },{
         type: "input", 
         name: "test",
-        message: "please enter test information"
+        message: "please enter any test information"
     },{
         type: "input", 
         name: "github",
