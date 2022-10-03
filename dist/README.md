@@ -1,4 +1,4 @@
-# test
+# project one
 
 
 ## Table of Contents
@@ -11,20 +11,20 @@
 - [QUESTIONS](#questions)
 
 ## Description 
-- test
+- description
 ## License
-[![MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
-- [MIT](https://opensource.org/licenses/MIT)
+[![Apache 2.0](https://img.shields.io/badge/license-Apache-blue)](https://opensource.org/licenses/Apache-2.0)
+- [Apache 2.0](https://opensource.org/licenses/Apache-2.0)
 
 ## Installation 
-- test
+- install
 ## Usage 
-- test
+- usage
 ## Contribution 
-- test
+- contribution
 ## Testing 
 - test
 ## Questions
 For additonal information contact:
-- github: test
-- email: test
+- github: [shelbybridwell](https://github.com/shelbybridwell)
+- email: bridwellshelby@protonmail.com

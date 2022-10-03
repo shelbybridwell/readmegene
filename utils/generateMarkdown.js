@@ -63,7 +63,7 @@ ${renderLicenseBadge(data.license)}
 - ${data.test}
 ## Questions
 For additonal information contact:
-- github: ${data.github}
+- github: [${data.github}](https://github.com/${data.github})
 - email: ${data.email}
 `;
 }
